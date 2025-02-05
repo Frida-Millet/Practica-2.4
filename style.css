@@ -1,0 +1,51 @@
+body{
+    background-color:#CCAC4D;
+}
+
+h1{
+    text-align: center;
+    font-family: "Ribeye Marrow", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+    letter-spacing: 25px;
+}
+
+.intro{
+    margin-left: 30%;
+    margin-right: 30% ;
+    line-height: 20px;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+cite{
+    text-decoration:underline;
+}
+
+.texto1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.latin {
+    font-size: 40px;
+    justify-content: space-between;
+    font-family: "Lobster", serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 17vh;
+}
+
+.español {
+    font-family: "Just Another Hand", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right;
+    font-size: 60px;
+    color: aliceblue;
+    justify-content: space-between;
+    line-height: 17vh;
+}
